@@ -1,2 +1,2 @@
-# Conflits
+LOCAL
 j'ecrit
